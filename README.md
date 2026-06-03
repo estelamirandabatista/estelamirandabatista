@@ -17,6 +17,6 @@ Atualmente, atuo como Treinadora de Programação Competitiva e Gerente do progr
 
 <br>
 
-### **🐱 Contato** 
+### **✨ Contato** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-estelamiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estelamirandabatista/)](https://www.linkedin.com/in/estelamirandabatista/) [![Instagram Badge](https://img.shields.io/badge/-@estela.css-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/estela.css/)](https://www.instagram.com/estela.css/)
